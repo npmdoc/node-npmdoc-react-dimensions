@@ -1,4 +1,7 @@
-# api documentation for  [react-dimensions (v1.3.0)](https://github.com/digidem/react-dimensions#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-react-dimensions.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-react-dimensions) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-react-dimensions.svg)](https://travis-ci.org/npmdoc/node-npmdoc-react-dimensions)
+# npmdoc-react-dimensions
+
+#### api documentation for  [react-dimensions (v1.3.0)](https://github.com/digidem/react-dimensions#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-react-dimensions.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-react-dimensions) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-react-dimensions.svg)](https://travis-ci.org/npmdoc/node-npmdoc-react-dimensions)
+
 #### React [higher-order component](https://gist.github.com/sebmarkbage/ef0bf1f338a7182b6775) to get dimensions of container
 
 [![NPM](https://nodei.co/npm/react-dimensions.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/react-dimensions)
